@@ -1,0 +1,47 @@
+[ {
+    "id": 1,
+    "age": "35",
+    "race": "white",
+    "gender": "female",
+    "height": "62",
+    "weight": "150",
+    "salary": "40000"
+},
+{
+    "id": 2,
+    "age": "40",
+    "race": "black",
+    "gender": "female",
+    "height": "64",
+    "weight": "160",
+    "salary": "28000"
+},
+{
+    "id": 3,
+    "age": "25",
+    "race": "hispanic",
+    "gender": "male",
+    "height": "68",
+    "weight": "120",
+    "salary": "24000"
+},
+{
+    "id": 4,
+    "age": "65",
+    "race": "black",
+    "gender": "male",
+    "height": "70",
+    "weight": "180",
+    "salary": "42000"
+},
+{
+    "id": 5,
+    "age": "35",
+    "race": "white",
+    "gender": "male",
+    "height": "72",
+    "weight": "180",
+    "salary": "75000"
+}
+
+]
